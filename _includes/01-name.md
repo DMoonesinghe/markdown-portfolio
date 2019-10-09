@@ -4,4 +4,4 @@
     <h4>  Instructions are not clear
       <h3> I don't see a pencil
 <H1> Again
-  This time using View file; instead of the edit file.  Then using a pencil.  
+  <h3> This time using View file; instead of the edit file.  Then using a pencil.  
